@@ -1,4 +1,15 @@
-# GraphiQL
+### Team project - GraphiQL ###
+
+***************************
+
+## Our team - ReactManiacs ##
+
+* [@nyurasheva](https://github.com/nyurasheva)
+* [@forsyterun](https://github.com/forsyterun)
+* [@massaracsh7](https://github.com/massaracsh7)
+
+
+***************************
 
 ## About The Project
 
@@ -32,7 +43,18 @@ Implement authentication and authorization mechanisms, ensuring that GraphiQL en
 
 ## Set up and run project locally
 
-To set up and run project locally you need to clone repository from `develop` branch, install all dependencies:  
+* Clone this repo: $ git clone https://github.com/massaracsh7/graphiql-app.git
+
+* Go to downloaded folder: $ cd graphiql-app.
+
+* Install dependencies: $ npm install
+
+* Runs the app in the development mode $ npm run dev
+
+* Open http://localhost:5173 to view it in the browser.
+
+* The page will reload if you make edits. You will also see any lint errors in the console.
+
 With NPM:
 
 ```
