@@ -13,6 +13,8 @@
 
 ## About The Project
 
+![Screen ](public/screen.png)
+
 GraphiQL is an open-source tool and a playground/IDE for graphQL requests. Has an interactive graphical interface that allows users to interact with GraphQL APIs (Application Programming Interfaces)
 
 ## Goal
@@ -24,6 +26,16 @@ Implement features such as syntax highlighting, and documentation to assist deve
 Integrate documentation directly into GraphiQL, providing context-aware information about types and fields. This ensures that developers can refer to documentation while interacting with the API
 
 Implement authentication and authorization mechanisms, ensuring that GraphiQL enforces the same security measures as the actual GraphQL API. This prevents unauthorized access and usage
+
+
+***************************
+
+## Deploy ##
+
+* [https://graphiql-app-gold.vercel.app](https://graphiql-app-gold.vercel.app)
+
+***************************
+
 ## Built With
 
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
